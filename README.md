@@ -4,10 +4,10 @@
 
 Language without javascript
 <a href="https://youtu.be/cE0wfjsybIQ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfleury&langs_count=10&layout=compact&hide=javascript" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfleury&langs_count=10&layout=compact&hide=javascript" />
 </a>
 <a href="https://youtu.be/_S7WEVLbQ-Y">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kfleury&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+  <img align="roght" src="https://github-readme-stats.vercel.app/api?username=kfleury&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
 </a>
 
 
