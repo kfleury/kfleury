@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 ![Profile views](https://gpvc.arturio.dev/kfleury)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kfleury&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kfleury&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfleury&langs_count=10" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfleury&layout=compact&langs_count=10)
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kfleury&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfleury&langs_count=10)-->
+
