@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfleury&langs_count=10" />
 </a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kfleury)]
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kfleury&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 
