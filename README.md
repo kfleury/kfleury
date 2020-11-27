@@ -3,10 +3,10 @@
 ![Profile views](https://gpvc.arturio.dev/kfleury)
 
 <a href="https://youtu.be/_S7WEVLbQ-Y">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kfleury&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kfleury&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
 </a>
 <a href="https://youtu.be/cE0wfjsybIQ">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfleury&langs_count=10&layout=compact&hide=javascript" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfleury&langs_count=10&layout=compact&hide=javascript" />
 </a>
 
 
