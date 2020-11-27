@@ -1,5 +1,22 @@
-### Hi there 👋
+### Hi there / Bonjour à toi 👋
+
+![Profile views](https://gpvc.arturio.dev/kfleury)
+
 Language without javascript
+<a href="https://youtu.be/cE0wfjsybIQ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfleury&langs_count=10&layout=compact&hide=javascript" />
+</a>
+<a href="https://youtu.be/_S7WEVLbQ-Y">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kfleury&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+</a>
+
+
+<!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kfleury)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kfleury&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfleury&langs_count=10)-->
+
 <!--
 **kfleury/kfleury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,17 +31,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile views](https://gpvc.arturio.dev/kfleury)
-
-<a href="https://youtu.be/_S7WEVLbQ-Y">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kfleury&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
-</a>
-<a href="https://youtu.be/cE0wfjsybIQ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfleury&langs_count=10&layout=compact&hide=javascript" />
-</a>
-<!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kfleury)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kfleury&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfleury&langs_count=10)-->
-
